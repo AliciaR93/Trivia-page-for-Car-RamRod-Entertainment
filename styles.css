@@ -33,7 +33,7 @@ p {
 a {
   color: black;
   font-weight: bold;
-  text-decoration: none;
+  text-decoration: underline;
   font-size: 40px;
 }
 a:hover {
